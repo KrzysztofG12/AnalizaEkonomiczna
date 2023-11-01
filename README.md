@@ -1,4 +1,4 @@
-Analiza Ekonomiczma to strona internetowa z funkcją przewidywania cen akcji z wykorzystaniem uczenia maszynowego.
+Analiza Ekonomiczna to strona internetowa z funkcją przewidywania cen akcji z wykorzystaniem uczenia maszynowego.
 Pierwsza z dwóch głównych funkcji strony polega na zobrazowaniu na wykresie cen akcji – podanych przez użytkownika w pliku CSV – oraz obliczenia funkcji agregujących dla tych danych. 
 Druga funkcja tworzy predykcje dla wybranej średniej krokowej przy użyciu „Recurrent Neural Network” (RNN), czyli Rekurencyjnej Sieci Neuronowej z komórkami „Long short-term memory” (LSTM) – Długiej Pamięci Krótkotrwałej. 
 Dostępne rodzaje średnich krokowych to: „Simple Moving Average” (SMA, czyli Prosta Średnia Krocząca) oraz „Exponential Moving Average” (EMA – Wykładnicza Średnia Krocząca). 
